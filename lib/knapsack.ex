@@ -1,0 +1,2 @@
+defmodule Knapsack do
+end
